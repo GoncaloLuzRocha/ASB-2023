@@ -13,7 +13,7 @@ raxml or another phylogenetic tree builder;
 The order to run the scrips is:
 1: getFastas.py;
 2: concat.py;
-3: mafftalign.py;
-4: rename.py;
+3: mafftAlign.py;
+4: renamer.py;
 
 and then run the file that is the output from rename.py, with raxml, i ran it with raxmlHPC-PTHREADS-SSE3, but be my guess and try the other raxml versions.
