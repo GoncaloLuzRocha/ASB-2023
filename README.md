@@ -17,3 +17,7 @@ The order to run the scrips is:
 4: renamer.py;
 
 and then run the file that is the output from rename.py, with raxml, i ran it with raxmlHPC-PTHREADS-SSE3, but be my guess and try the other raxml versions.
+
+
+update, the way i made this, is wrong, i should align before concatenating the sequences.
+in this im concatenating before the alignemnt.
