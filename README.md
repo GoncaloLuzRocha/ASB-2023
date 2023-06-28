@@ -1,4 +1,4 @@
-# ASB-2023
+# ASB-2023-assignment_01
 The scripts were made in python, and tested in linux shell.
 I tested them using: python3 script.py (substitute script.py witht the name of the script)
 I did not test them using only: python script.py because there was some error, either with the way i installed my dependencies in my VM or with how the VM was setup, idk.
